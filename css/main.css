@@ -1,0 +1,28 @@
+nav {
+    background-color: #ffcc99;
+    color: black;
+}
+.jumbotron {
+    background-image: url("https://images.wagwalkingweb.com/media/breed/dachshund/hero/dachshund.jpg");
+    background-size: cover;
+    text-align: center;  
+}
+.jumbotron > div {
+    background-color: rgba(255,255,255,0.6);
+}
+.container {
+    width: 50%;
+}
+#colors {
+    background-color: #ffcc99;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+#featured img {
+    height: 200px;
+    object-fit: cover;
+}
+#dachshundCarousel {
+    height: 700px;
+    overflow: hidden;
+}
